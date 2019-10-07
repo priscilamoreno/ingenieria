@@ -5,5 +5,5 @@ python:
 install: " pip install --user coverage"
 #command to run tests
 script:
-   -coverage run test.py
+   - coverage run test.py
    - coverage report
