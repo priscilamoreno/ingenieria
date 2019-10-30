@@ -1,5 +1,6 @@
 import unittest
 import sut
+import mock
 from unittest.mock import MagicMock
 from unittest.mock import patch
 #import math
